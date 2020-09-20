@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "nodejs-ea572": {
+      "hosting": {
+        "semana3": [
+          "nodejs-ea572"
+        ]
+      }
+    }
+  }
+}
