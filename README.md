@@ -1,4 +1,5 @@
-# Semana3
+# Semana4
+para arrancar el proyecto primero ejecute por terminal npm install -g @angular/cli, y luego ejecute ng serve. De existir error de compilación por angular devkit, por favor ejecute npm install @angular-devkit/build-angular@0.13.0..... IMPORTANTE: luego de ejecutar ng serve en la terminal de la carpeta, abra el puerto 4200 por localhost, es decir http://localhost:4200, por 8080 no abre.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
